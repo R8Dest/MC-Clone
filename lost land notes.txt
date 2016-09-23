@@ -1,0 +1,41 @@
+
+
+Lost Land Tech Tree:
+
+Ancient Warfare: Wood/Copper
+Immersive Engineering: Treated Wood/Iron/Steel
+Buildcraft: Steel/Paladium/Oroclase
+Thermal Expansion: Chromium/Steel/Paladium/
+Industrial Craft: Paladium/Chromium/Radium Carbide/Tungstantite
+Mechanism: Adamantium/Osmium/??
+Big Reactors: Aerograde Steel/Nanitium/Uranium 
+
+
+Ancient Warfare -> Immersive Engineering -> Buildcraft -> Industrial Craft -> Mechanism -> Big Reactors
+								-> Minechem -> Genetics
+								-> AE2
+						->Thermal Expansion Powergen
+Laser, Atomic Dissassembler
+Jetpack, Glider
+Jetpack Fuel needs to be waaaay more difficult
+special invasion resistant block
+intigrate mystcraft into tech tree?
+
+use extreme crafting table
+
+how do i setup so one needs the next... 
+make it so creasote creation (furnace) needs ancient warfare?
+remove buildcraft engines? 
+any buildcraft engine also needs something that requires an immersive engineering machine
+such as the crusher or blast furnace. refinery? 
+make plates for buildcraft machines through metal press
+industrial craft needs dusts that can only be made by a pulverizer? 
+pulverizer becomes super special block (needs extreme crafting?)
+
+
+special plates needed to make machines, specially buildcraft,
+
+
+
+New Materials:
+chromium, tungstanite, radium carbide, Paladium, Nanitium, Aerograde Steel
